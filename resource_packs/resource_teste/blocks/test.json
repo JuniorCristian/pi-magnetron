@@ -1,0 +1,10 @@
+{
+    "minecraft:block": {
+    "description": {
+      "identifier": "test:test",
+      "textures": {
+        "default": "textures/blocks/test_block"
+      }
+    }
+  }
+}
